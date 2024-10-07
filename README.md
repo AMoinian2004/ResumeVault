@@ -9,4 +9,4 @@ Resume Vault is a tool designed to help users parse, store, and manage data from
 
 - **Frontend**: Used HTML and CSS, with Tailwind CSS and Bootstrap.
 - **Backend**: Used Python, with the Django framework.
-- **Database**: Integrated with a PostgreSQL database hosted on AWS for secure and reliable data storage.
+- **Database**: Used PostgreSQL database, hosted on AWS S3.
